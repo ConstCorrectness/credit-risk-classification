@@ -4,7 +4,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-1.23.5-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.1.3-green)
 
+## Report
 
+The report is documented here: [report](/report.md)
 
 ## Description
 
